@@ -33,13 +33,7 @@
 		"downloadable": true,
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	}, {
-		"name": "",
-		"author": "",
-		"url": "https://drive.google.com/uc?id=",
-		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	}, {
-		"name": "Pattern Wallpaper",
+		"name": "Pattern 1",
 		"author": "Ruiz",
 		"url": "https://drive.google.com/uc?id=1ZgPSn1I14XW85CfbRaV7adVdAjCNwr2g",
 		"downloadable": true,
@@ -57,7 +51,7 @@
 		"downloadable": true,
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	}, {
-		"name": "Pattern",
+		"name": "Pattern 2",
 		"author": "Ruiz",
 		"url": "https://drive.google.com/uc?id=1x75RMl9t1nPY1kwwKnPLaBV7Qou7Ehze",
 		"downloadable": true,
@@ -65,7 +59,7 @@
 	}, {
 		"name": "Gradient 1",
 		"author": "Ruiz",
-		"url": "https://drive.google.com/uc?id=/1whpnOaZ4YDV3CU9_HNULDDarn5zyLUF_",
+		"url": "https://drive.google.com/uc?id=1whpnOaZ4YDV3CU9_HNULDDarn5zyLUF_",
 		"downloadable": true,
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	}, {
@@ -144,6 +138,12 @@
 		"name": "Pineapple",
 		"author": "UNKNOWN",
 		"url": "https://drive.google.com/uc?id=1HamTFdkMKTj6uMGsI6tpHFO-ff7t1_x1",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	}, {
+		"name": "Plus wall",
+		"author": "YoG",
+		"url": "https://drive.google.com/uc?id=1jI0Z7darOR4TiztAuSU7nEQ72409QhGC",
 		"downloadable": true,
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	}
